@@ -137,6 +137,16 @@ We recommend using "Read-Only" API keys for the chat client. This ensures that e
 
 ---
 
+## 🎨 Frontend & UI
+
+Looking for a beautiful interface to go with this engine? Check out our dedicated ChatBot UI repository:
+
+👉 **[AI ChatBot UI](https://github.com/nabinhamal/AI)**
+
+This repository contains the production-grade frontend and advanced chat logic to complement the Vector Engine.
+
+---
+
 ## 📦 Tech Stack
 
 - **Runtime**: [Bun](https://bun.sh) (Speed & Simplicity)
@@ -148,5 +158,5 @@ We recommend using "Read-Only" API keys for the chat client. This ensures that e
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the AECUSTECH Team</sub>
+  <sub>Built with ❤️ by the Nabin Hamal</sub>
 </div>
