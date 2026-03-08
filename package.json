@@ -1,6 +1,6 @@
 {
   "name": "chatbot",
-  "module": "index.js",
+  "module": "app.js",
   "type": "module",
   "private": true,
   "devDependencies": {
@@ -8,5 +8,15 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@langchain/community": "^1.1.22",
+    "@langchain/core": "^1.1.31",
+    "@langchain/openai": "^1.2.12",
+    "@langchain/pinecone": "^1.0.1",
+    "@langchain/textsplitters": "^1.0.1",
+    "@pinecone-database/pinecone": "^7.1.0",
+    "groq-sdk": "^0.37.0",
+    "pdf-parse": "1.1.1"
   }
 }

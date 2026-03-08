@@ -1,0 +1,9 @@
+# MANDATORY RULES - MUST ALWAYS BE FOLLOWED
+
+## 1. Source of Truth
+
+- **GEMINI.md**: Always check and follow instructions in `GEMINI.md` for project-specific context, strict type safety, React patterns, and UI/UX standards.
+
+## 2. Environment & Runtime
+
+- **Use Bun**: Always use `bun` for running scripts, installing packages, and as the runtime. Follow `.cursor/rules/use-bun-instead-of-node-vite-npm-pnpm.mdc`.
